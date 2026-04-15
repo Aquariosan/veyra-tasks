@@ -140,6 +140,31 @@ See [veyra.to](https://veyra.to) for full documentation.
 
 MIT
 
+## Hosted Pack (recommended)
+
+Prefer the hosted pack for one-URL integration:
+
+```json
+{
+  "mcpServers": {
+    "veyra": {
+      "url": "https://mcp.veyra.to/sse"
+    }
+  }
+}
+```
+
+One URL. 48 tools. 24 free reads. 24 protected writes.
+
+Hosted pack:
+https://mcp.veyra.to/sse
+
+Pack manifest:
+https://mcp.veyra.to/.well-known/veyra-pack.json
+
+Use the hosted pack when you want the fastest MCP integration path across all Veyra tool families.
+Use this standalone package when you specifically want this tool on its own.
+
 ## Part of the Veyra Ecosystem
 
 Veyra is commit mode for production AI agent actions.
