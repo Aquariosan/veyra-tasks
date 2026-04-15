@@ -27,5 +27,10 @@
     "trusted-writes"
   ],
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "homepage": "https://veyra.to",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aquariosan/veyra-tasks"
+  }
 }
